@@ -1,26 +1,26 @@
 # Site settings
-title: 三叶草国际语
-SEOTitle: 三叶草国际语 - 让沟通更容易
-header-img: img/post-bg-desk.jpg
-email: klovien@gmail.com
-description: "中西融合, 即学即会, 从此不再辛苦背单词"
-keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
-url: "https://klovien.github.io"          # your host, for absolute URL
+title: shushi Chen
+SEOTitle: 年华虚度无限惭愧
+header-img: img/BackGround.jpg
+email: sschen20@fudan.edu.cn
+description: "年华虚度,无限惭愧"
+keyword: "视频编解码, 数字集成电路设计"
+url: "https://shushichen.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you're going to be!"
-sidebar-avatar: /img/about-HJ.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "年华虚度,无限惭愧!"
+sidebar-avatar: /img/myself.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-# zhihu_username:     qiubaiying
-# github_username:    qiubaiying
+# zhihu_username:    
+github_username:    shushichen
 # facebook_username:  baiying.qiu.7
 # jianshu_username:   e71990ada2fd
 # twitter_username:   qiubaiying
@@ -60,14 +60,14 @@ kramdown:
 # disqus_username: qiubaiying
 
 # Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: d18b343dd9c7ca49518a                            #生成的clientID
-  clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
-  repo: klovien.github.io    #仓库名称
-  owner: klovien    #github用户名
-  admin: klovien
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+# gitalk:
+#   enable: true    #是否开启Gitalk评论
+#   clientID: d18b343dd9c7ca49518a                            #生成的clientID
+#   clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
+#   repo: klovien.github.io    #仓库名称
+#   owner: klovien    #github用户名
+#   admin: klovien
+#   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
@@ -97,15 +97,15 @@ service-worker: true
 
 
 # 友情链接，请尽量不要删除，谢谢！
-friends: [
-    {
-        title: "星球国际语",
-        href: "https://globien.gitee.io"
-    },{
-        title: "星球语互动社区",
-        href: "https://tieba.baidu.com/f?kw=%E6%A0%BC%E7%BD%97%E6%AF%94%E8%A8%80&fr=home"
-    },{
-        title: "知乎：人造国际语",
-        href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
-    }
-]
+# friends: [
+#     {
+#         title: "星球国际语",
+#         href: "https://globien.gitee.io"
+#     },{
+#         title: "星球语互动社区",
+#         href: "https://tieba.baidu.com/f?kw=%E6%A0%BC%E7%BD%97%E6%AF%94%E8%A8%80&fr=home"
+#     },{
+#         title: "知乎：人造国际语",
+#         href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
+#     }
+# ]
